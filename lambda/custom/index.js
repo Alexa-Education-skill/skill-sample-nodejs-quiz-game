@@ -5,7 +5,7 @@
 // IMPORTANT: Please note that this template uses Dispay Directives,
 // Display Interface for your skill should be enabled through the Amazon developer console
 // See this screenshot - https://alexa.design/enabledisplay
-//12345678
+//THis is me
 const Alexa = require('ask-sdk-core');
 
 /* INTENT HANDLERS */
